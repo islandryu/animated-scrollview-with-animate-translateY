@@ -40,6 +40,7 @@ export default function App() {
       onChangeRef.current = "end";
       console.log("end");
     }
+
     // const isNearSecondPreviousValue = Math.abs(currentScrollY - secondPreviousValue.value) < 1;
     // const isNearPreviousValue = Math.abs(currentScrollY - previousValue.value) < 1;
 
